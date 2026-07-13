@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+venv310/
+
+# Large raw data downloads (regenerate via download_geo.py / GEOparse)
+data/GSE135893/
+*.mtx.gz
+*.h5ad
+
+# OS
+.DS_Store

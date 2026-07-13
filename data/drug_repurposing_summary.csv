@@ -1,0 +1,4 @@
+atom,category,mol_ids,resolved,gt_hits,gt_total,gt_found,pval,significant,conclusion,status
+1,cancer,63,40,3,5,"bevacizumab, nivolumab, pembrolizumab",0.2135,False,"bevacizumab, nivolumab, pembrolizumab recovered (rank out of 40). Not significant at n=40 (p=0.21). Directionally consistent; statistical test underpowered at n=40. Full database query required for significance.",DIRECTIONAL
+2,fibrosis,52,40,1,4,tocilizumab,0.7305,False,tocilizumab recovered (rank out of 40). Not significant at n=40 (p=0.73). Directionally consistent; statistical test underpowered at n=40. Full database query required for significance.,DIRECTIONAL
+8,inflammation,64,40,2,5,"adalimumab, baricitinib",0.4805,False,"adalimumab, baricitinib recovered (rank out of 40). Not significant at n=40 (p=0.48). Directionally consistent; statistical test underpowered at n=40. Full database query required for significance.",DIRECTIONAL

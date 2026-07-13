@@ -1,0 +1,121 @@
+atom,category,drug,gt_drug,source
+1,cancer,abicipar pegol,False,ChEMBL_external
+1,cancer,adebrelimab,False,ChEMBL_external
+1,cancer,aflibercept,False,ChEMBL_external
+1,cancer,avelumab,False,ChEMBL_external
+1,cancer,bevacizumab,True,ChEMBL_external
+1,cancer,bevacizumab 111in,False,ChEMBL_external
+1,cancer,bevacizumab gamma,False,ChEMBL_external
+1,cancer,bintrafusp alfa,False,ChEMBL_external
+1,cancer,budigalimab,False,ChEMBL_external
+1,cancer,cadonilimab,False,ChEMBL_external
+1,cancer,camrelizumab,False,ChEMBL_external
+1,cancer,cemiplimab,False,ChEMBL_external
+1,cancer,cetrelimab,False,ChEMBL_external
+1,cancer,conbercept,False,ChEMBL_external
+1,cancer,cs-1003,False,ChEMBL_external
+1,cancer,durvalumab,False,ChEMBL_external
+1,cancer,envafolimab,False,ChEMBL_external
+1,cancer,faricimab,False,ChEMBL_external
+1,cancer,fgfr inhibitor debio 1347,False,ChEMBL_external
+1,cancer,finotonlimab,False,ChEMBL_external
+1,cancer,incb-086550,False,ChEMBL_external
+1,cancer,lomvastomig,False,ChEMBL_external
+1,cancer,nivolumab,True,ChEMBL_external
+1,cancer,pd-0166285 hydrochloride,False,ChEMBL_external
+1,cancer,pegaptanib octasodium,False,ChEMBL_external
+1,cancer,pegaptanib sodium,False,ChEMBL_external
+1,cancer,pembrolizumab,True,ChEMBL_external
+1,cancer,pidilizumab,False,ChEMBL_external
+1,cancer,retifanlimab,False,ChEMBL_external
+1,cancer,rg-1530,False,ChEMBL_external
+1,cancer,sasanlimab,False,ChEMBL_external
+1,cancer,serplulimab,False,ChEMBL_external
+1,cancer,sintilimab,False,ChEMBL_external
+1,cancer,socazolimab,False,ChEMBL_external
+1,cancer,spartalizumab,False,ChEMBL_external
+1,cancer,surufatinib,False,ChEMBL_external
+1,cancer,tebotelimab,False,ChEMBL_external
+1,cancer,tg100-801,False,ChEMBL_external
+1,cancer,vanucizumab,False,ChEMBL_external
+1,cancer,zimberelimab,False,ChEMBL_external
+2,fibrosis,abicipar pegol,False,ChEMBL_external
+2,fibrosis,atacicept,False,ChEMBL_external
+2,fibrosis,avapritinib,False,ChEMBL_external
+2,fibrosis,bevacizumab,False,ChEMBL_external
+2,fibrosis,bevacizumab 111in,False,ChEMBL_external
+2,fibrosis,bevacizumab gamma,False,ChEMBL_external
+2,fibrosis,blisibimod,False,ChEMBL_external
+2,fibrosis,briobacept,False,ChEMBL_external
+2,fibrosis,brolucizumab,False,ChEMBL_external
+2,fibrosis,clazakizumab,False,ChEMBL_external
+2,fibrosis,conbercept,False,ChEMBL_external
+2,fibrosis,faricimab,False,ChEMBL_external
+2,fibrosis,fgfr inhibitor debio 1347,False,ChEMBL_external
+2,fibrosis,fresolimumab,False,ChEMBL_external
+2,fibrosis,levilimab,False,ChEMBL_external
+2,fibrosis,ly-2382770,False,ChEMBL_external
+2,fibrosis,metelimumab,False,ChEMBL_external
+2,fibrosis,mra 003 us,False,ChEMBL_external
+2,fibrosis,muparfostat,False,ChEMBL_external
+2,fibrosis,olaratumab,False,ChEMBL_external
+2,fibrosis,olokizumab,False,ChEMBL_external
+2,fibrosis,pacibekitug,False,ChEMBL_external
+2,fibrosis,pd-0166285 hydrochloride,False,ChEMBL_external
+2,fibrosis,pegaptanib octasodium,False,ChEMBL_external
+2,fibrosis,pegaptanib sodium,False,ChEMBL_external
+2,fibrosis,pemigatinib,False,ChEMBL_external
+2,fibrosis,ranibizumab,False,ChEMBL_external
+2,fibrosis,rg-1530,False,ChEMBL_external
+2,fibrosis,ripretinib,False,ChEMBL_external
+2,fibrosis,rozibafusp alfa,False,ChEMBL_external
+2,fibrosis,sarilumab,False,ChEMBL_external
+2,fibrosis,sirukumab,False,ChEMBL_external
+2,fibrosis,surufatinib,False,ChEMBL_external
+2,fibrosis,tabalumab,False,ChEMBL_external
+2,fibrosis,tg100-801,False,ChEMBL_external
+2,fibrosis,tibulizumab,False,ChEMBL_external
+2,fibrosis,tocilizumab,True,ChEMBL_external
+2,fibrosis,tovetumab,False,ChEMBL_external
+2,fibrosis,vanucizumab,False,ChEMBL_external
+2,fibrosis,ziltivekimab,False,ChEMBL_external
+8,inflammation,abrocitinib,False,ChEMBL_external
+8,inflammation,ac-430,False,ChEMBL_external
+8,inflammation,adalimumab,True,ChEMBL_external
+8,inflammation,azd-1480,False,ChEMBL_external
+8,inflammation,baricitinib,True,ChEMBL_external
+8,inflammation,bms-911543,False,ChEMBL_external
+8,inflammation,brepocitinib,False,ChEMBL_external
+8,inflammation,cerdulatinib,False,ChEMBL_external
+8,inflammation,certolizumab pegol,False,ChEMBL_external
+8,inflammation,clazakizumab,False,ChEMBL_external
+8,inflammation,ct-1578,False,ChEMBL_external
+8,inflammation,fedratinib hydrochloride,False,ChEMBL_external
+8,inflammation,filgotinib,False,ChEMBL_external
+8,inflammation,filgotinib maleate,False,ChEMBL_external
+8,inflammation,gevokizumab,False,ChEMBL_external
+8,inflammation,glpg-0555,False,ChEMBL_external
+8,inflammation,golidocitinib,False,ChEMBL_external
+8,inflammation,infliximab,False,ChEMBL_external
+8,inflammation,itacitinib,False,ChEMBL_external
+8,inflammation,lenercept,False,ChEMBL_external
+8,inflammation,lestaurtinib,False,ChEMBL_external
+8,inflammation,levilimab,False,ChEMBL_external
+8,inflammation,momelotinib,False,ChEMBL_external
+8,inflammation,mra 003 us,False,ChEMBL_external
+8,inflammation,nerelimomab,False,ChEMBL_external
+8,inflammation,olokizumab,False,ChEMBL_external
+8,inflammation,onercept,False,ChEMBL_external
+8,inflammation,pacibekitug,False,ChEMBL_external
+8,inflammation,pacritinib,False,ChEMBL_external
+8,inflammation,pacritinib citrate,False,ChEMBL_external
+8,inflammation,pegsunercept,False,ChEMBL_external
+8,inflammation,placulumab,False,ChEMBL_external
+8,inflammation,remtolumab,False,ChEMBL_external
+8,inflammation,rilonacept,False,ChEMBL_external
+8,inflammation,ruxolitinib phosphate,False,ChEMBL_external
+8,inflammation,sarilumab,False,ChEMBL_external
+8,inflammation,sirukumab,False,ChEMBL_external
+8,inflammation,solcitinib,False,ChEMBL_external
+8,inflammation,upadacitinib hemihydrate,False,ChEMBL_external
+8,inflammation,ziltivekimab,False,ChEMBL_external

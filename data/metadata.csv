@@ -1,0 +1,51 @@
+sample_id,dataset_source,tissue,disease,n_cells_total,n_cells_mapped,pct_cells_mapped,low_quality
+covid_S01,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False
+covid_S02,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False
+covid_S03,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False
+covid_S04,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False
+covid_S05,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False
+covid_S06,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False
+covid_S07,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False
+covid_S08,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False
+covid_S09,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False
+covid_S10,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False
+pbmc3k_S06,pbmc3k,PBMC,healthy,254,253,99.6,False
+pbmc3k_S03,pbmc3k,PBMC,healthy,255,253,99.2,False
+pbmc3k_S07,pbmc3k,PBMC,healthy,263,262,99.6,False
+pbmc3k_S04,pbmc3k,PBMC,healthy,280,280,100.0,False
+pbmc3k_S09,pbmc3k,PBMC,healthy,271,269,99.3,False
+pbmc3k_S02,pbmc3k,PBMC,healthy,264,263,99.6,False
+pbmc3k_S05,pbmc3k,PBMC,healthy,259,256,98.8,False
+pbmc3k_S01,pbmc3k,PBMC,healthy,259,257,99.2,False
+pbmc3k_S00,pbmc3k,PBMC,healthy,280,279,99.6,False
+pbmc3k_S08,pbmc3k,PBMC,healthy,253,251,99.2,False
+pbmc68k_S06,pbmc68k,PBMC,healthy,71,70,98.6,False
+pbmc68k_S03,pbmc68k,PBMC,healthy,63,60,95.2,False
+pbmc68k_S07,pbmc68k,PBMC,healthy,63,62,98.4,False
+pbmc68k_S04,pbmc68k,PBMC,healthy,79,79,100.0,False
+pbmc68k_S09,pbmc68k,PBMC,healthy,76,75,98.7,False
+pbmc68k_S02,pbmc68k,PBMC,healthy,78,75,96.2,False
+pbmc68k_S05,pbmc68k,PBMC,healthy,60,59,98.3,False
+pbmc68k_S01,pbmc68k,PBMC,healthy,56,56,100.0,False
+pbmc68k_S00,pbmc68k,PBMC,healthy,88,87,98.9,False
+pbmc68k_S08,pbmc68k,PBMC,healthy,66,64,97.0,False
+ipf_S01,synthetic_ipf,lung,IPF,0,0,100.0,False
+ipf_S02,synthetic_ipf,lung,IPF,0,0,100.0,False
+ipf_S03,synthetic_ipf,lung,IPF,0,0,100.0,False
+ipf_S04,synthetic_ipf,lung,IPF,0,0,100.0,False
+ipf_S05,synthetic_ipf,lung,IPF,0,0,100.0,False
+ipf_S06,synthetic_ipf,lung,IPF,0,0,100.0,False
+ipf_S07,synthetic_ipf,lung,IPF,0,0,100.0,False
+ipf_S08,synthetic_ipf,lung,IPF,0,0,100.0,False
+ipf_S09,synthetic_ipf,lung,IPF,0,0,100.0,False
+ipf_S10,synthetic_ipf,lung,IPF,0,0,100.0,False
+tumor_S01,synthetic_tumor,solid tumor,cancer,0,0,100.0,False
+tumor_S02,synthetic_tumor,solid tumor,cancer,0,0,100.0,False
+tumor_S03,synthetic_tumor,solid tumor,cancer,0,0,100.0,False
+tumor_S04,synthetic_tumor,solid tumor,cancer,0,0,100.0,False
+tumor_S05,synthetic_tumor,solid tumor,cancer,0,0,100.0,False
+tumor_S06,synthetic_tumor,solid tumor,cancer,0,0,100.0,False
+tumor_S07,synthetic_tumor,solid tumor,cancer,0,0,100.0,False
+tumor_S08,synthetic_tumor,solid tumor,cancer,0,0,100.0,False
+tumor_S09,synthetic_tumor,solid tumor,cancer,0,0,100.0,False
+tumor_S10,synthetic_tumor,solid tumor,cancer,0,0,100.0,False

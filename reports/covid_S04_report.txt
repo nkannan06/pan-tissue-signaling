@@ -1,0 +1,37 @@
+═══════════════════════════════════════════════════════
+TISSUE COMMUNICATION ANALYSIS REPORT
+Sample: covid_S04 | Tissue: Lung / blood | Disease: COVID-19 severe
+═══════════════════════════════════════════════════════
+
+CURRENT STATE
+Primary program:   Inflammation (Atom 8) — 74% loading
+Secondary program: Homeostasis (Atom 6) — 6% loading
+Disease progression stage: 4/5 (late)
+Progression score: 0.742
+
+TRAJECTORY (untreated)
+Step +1: 22% inflammation (A8) + 13% homeostasis (A6)
+Step +2: 0% inflammation (A8) — progressing
+Risk: HIGH — progressing toward inflammation
+
+INTERVENTION MODELING
+Anti-inflammatory:
+  → Step +1: 12% inflammation | Step +2: 0% inflammation
+  → Benefit: minimal — target atom is secondary driver
+Anti-fibrotic:
+  → Step +1: 30% inflammation | Step +2: 0% inflammation
+  → Benefit: moderate reduction, partial diversion
+Combined:
+  → Step +1: 16% inflammation | Step +2: 0% inflammation
+  → Benefit: moderate reduction, partial diversion
+RECOMMENDATION: monitoring only — homeostatic state
+
+KEY LIGAND-RECEPTOR DRIVERS
+Top 3 active LR pairs in dominant atom (Inflammation):
+  1. IL6:IL6R (T_cell→Macrophage)
+  2. TNF:TNFRSF1A (Macrophage→T_cell)
+  3. CXCL10:CXCR3 (Macrophage→T_cell)
+
+SIMILAR DISEASE CONTEXTS
+This communication profile matches: COVID-19 severe, Sepsis, IBD flare, DFU inflammation
+═══════════════════════════════════════════════════════

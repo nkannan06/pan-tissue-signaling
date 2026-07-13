@@ -1,0 +1,2 @@
+stage_transition,falling_atom,falling_label,falling_category,falling_delta,falling_diseases,rising_atom,rising_label,rising_category,rising_delta,rising_diseases,clinical_analog
+Stage 4→5,A8,T_cell→Macrophage / Macrophage→T_cell,inflammation,-0.5116,"COVID-19 severe, Sepsis",A2,Fibroblast→Fibroblast / Macrophage→Fibroblast,fibrosis,0.4534,"IPF, Liver cirrhosis","Post-inflammatory fibrosis (e.g. post-COVID lung fibrosis, IBD→Crohn's fibrosis)"

@@ -1,0 +1,9 @@
+atom,label,category,r2
+Atom_1,Macrophage→T_cell / Fibroblast→Macrophage,cancer,0.9935
+Atom_2,Fibroblast→Fibroblast / Macrophage→Fibroblast,fibrosis,0.9524
+Atom_3,Dendritic_cell→B_cell / Dendritic_cell→NK_cell,homeostasis,-2.9922
+Atom_4,NK_cell→NK_cell / Macrophage→NK_cell,homeostasis,-0.219
+Atom_5,Dendritic_cell→Dendritic_cell / Dendritic_cell→Macrophage,homeostasis,-7.0948
+Atom_6,T_cell→NK_cell / Macrophage→Macrophage,homeostasis,-1.1706
+Atom_7,Macrophage→Dendritic_cell / B_cell→Dendritic_cell,homeostasis,0.1897
+Atom_8,T_cell→Macrophage / Macrophage→T_cell,inflammation,0.2975

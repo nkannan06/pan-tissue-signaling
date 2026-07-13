@@ -1,0 +1,37 @@
+═══════════════════════════════════════════════════════
+TISSUE COMMUNICATION ANALYSIS REPORT
+Sample: ipf_S03 | Tissue: Lung | Disease: IPF / Pulmonary fibrosis
+═══════════════════════════════════════════════════════
+
+CURRENT STATE
+Primary program:   Fibrosis (Atom 2) — 81% loading
+Secondary program: Cancer (Atom 1) — 4% loading
+Disease progression stage: 5/5 (late)
+Progression score: 0.892
+
+TRAJECTORY (untreated)
+Step +1: 81% fibrosis (A2)
+Step +2: 81% fibrosis (A2) — stable attractor
+Risk: HIGH — sample is in stable fibrosis attractor
+
+INTERVENTION MODELING
+Anti-inflammatory:
+  → Step +1: 82% fibrosis | Step +2: 80% fibrosis
+  → Benefit: minimal reduction
+Anti-fibrotic:
+  → Step +1: 64% fibrosis | Step +2: 71% fibrosis
+  → Benefit: moderate reduction, partial diversion
+Combined:
+  → Step +1: 70% fibrosis | Step +2: 74% fibrosis
+  → Benefit: moderate reduction, partial diversion
+RECOMMENDATION: Anti-fibrotic at this stage
+
+KEY LIGAND-RECEPTOR DRIVERS
+Top 3 active LR pairs in dominant atom (Fibrosis):
+  1. GRN:TNFRSF1B (Macrophage→Fibroblast)
+  2. TNFSF13B:HLA-DPB1 (Macrophage→Fibroblast)
+  3. POSTN:ITGAV (Fibroblast→Fibroblast)
+
+SIMILAR DISEASE CONTEXTS
+This communication profile matches: IPF, Liver cirrhosis, DFU non-healing, Keloid, Systemic sclerosis
+═══════════════════════════════════════════════════════

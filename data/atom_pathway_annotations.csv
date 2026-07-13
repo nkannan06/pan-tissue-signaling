@@ -1,0 +1,25 @@
+atom,atom_label,disease_category,pathway_rank,pathway_term,adj_pvalue,overlap,source,top_ligands,diseases
+1,Macrophage→T_cell / Fibroblast→Macrophage,cancer,1,Inflammatory Response,0.0267776746770228,2/200,MSigDB_Hallmark_2020,HBEGF; SELPLG; CD47; GNAI2; TNFSF13B; CLEC1B; GRN; CD48,Breast cancer TME; NSCLC; Pancreatic cancer
+1,Macrophage→T_cell / Fibroblast→Macrophage,cancer,2,Interferon Alpha Response,0.0772680713380291,1/97,MSigDB_Hallmark_2020,HBEGF; SELPLG; CD47; GNAI2; TNFSF13B; CLEC1B; GRN; CD48,Breast cancer TME; NSCLC; Pancreatic cancer
+1,Macrophage→T_cell / Fibroblast→Macrophage,cancer,3,IL-2/STAT5 Signaling,0.0772680713380291,1/199,MSigDB_Hallmark_2020,HBEGF; SELPLG; CD47; GNAI2; TNFSF13B; CLEC1B; GRN; CD48,Breast cancer TME; NSCLC; Pancreatic cancer
+2,Fibroblast→Fibroblast / Macrophage→Fibroblast,fibrosis,1,Myogenesis,0.0394066901050093,1/200,MSigDB_Hallmark_2020,TNFSF13B; GNAI2; HBEGF; GRN,IPF; Liver cirrhosis; DFU non-healing
+2,Fibroblast→Fibroblast / Macrophage→Fibroblast,fibrosis,2,KRAS Signaling Up,0.0394066901050093,1/200,MSigDB_Hallmark_2020,TNFSF13B; GNAI2; HBEGF; GRN,IPF; Liver cirrhosis; DFU non-healing
+2,Fibroblast→Fibroblast / Macrophage→Fibroblast,fibrosis,3,TNF-alpha Signaling via NF-kB,0.0394066901050093,1/200,MSigDB_Hallmark_2020,TNFSF13B; GNAI2; HBEGF; GRN,IPF; Liver cirrhosis; DFU non-healing
+3,Dendritic_cell→B_cell / Dendritic_cell→NK_cell,homeostasis,1,Complement,0.0145357078377412,2/200,MSigDB_Hallmark_2020,HBEGF; CD47; TNFSF13B; GNAI2; C1QA; GRN,Vaccine response; Allergy; SLE
+3,Dendritic_cell→B_cell / Dendritic_cell→NK_cell,homeostasis,2,Interferon Alpha Response,0.0585267307609904,1/97,MSigDB_Hallmark_2020,HBEGF; CD47; TNFSF13B; GNAI2; C1QA; GRN,Vaccine response; Allergy; SLE
+3,Dendritic_cell→B_cell / Dendritic_cell→NK_cell,homeostasis,3,Coagulation,0.0585267307609904,1/138,MSigDB_Hallmark_2020,HBEGF; CD47; TNFSF13B; GNAI2; C1QA; GRN,Vaccine response; Allergy; SLE
+4,NK_cell→NK_cell / Macrophage→NK_cell,homeostasis,1,Intestinal immune network for IgA production,0.0129663926971214,1/48,KEGG_2021_Human,TNFSF13B; CLEC1B,Viral infection; NK-cell lymphoma; Healthy surveillance
+4,NK_cell→NK_cell / Macrophage→NK_cell,homeostasis,2,Rheumatoid arthritis,0.0129663926971214,1/93,KEGG_2021_Human,TNFSF13B; CLEC1B,Viral infection; NK-cell lymphoma; Healthy surveillance
+4,NK_cell→NK_cell / Macrophage→NK_cell,homeostasis,3,C-type lectin receptor signaling pathway,0.0129663926971214,1/104,KEGG_2021_Human,TNFSF13B; CLEC1B,Viral infection; NK-cell lymphoma; Healthy surveillance
+5,Dendritic_cell→Dendritic_cell / Dendritic_cell→Macrophage,homeostasis,1,KRAS Signaling Up,0.006828277287618,2/200,MSigDB_Hallmark_2020,HBEGF; C1QA; CLEC1B; GRN; PPBP,Antigen presentation (homeostatic); Sarcoidosis
+5,Dendritic_cell→Dendritic_cell / Dendritic_cell→Macrophage,homeostasis,2,Coagulation,0.049014519870416,1/138,MSigDB_Hallmark_2020,HBEGF; C1QA; CLEC1B; GRN; PPBP,Antigen presentation (homeostatic); Sarcoidosis
+5,Dendritic_cell→Dendritic_cell / Dendritic_cell→Macrophage,homeostasis,3,Myogenesis,0.049014519870416,1/200,MSigDB_Hallmark_2020,HBEGF; C1QA; CLEC1B; GRN; PPBP,Antigen presentation (homeostatic); Sarcoidosis
+6,T_cell→NK_cell / Macrophage→Macrophage,homeostasis,1,Complement,0.0035349698043431,2/200,MSigDB_Hallmark_2020,SELPLG; CD48; C1QA; IL6,Viral clearance; CAR-T bystander effects
+6,T_cell→NK_cell / Macrophage→Macrophage,homeostasis,2,Inflammatory Response,0.0035349698043431,2/200,MSigDB_Hallmark_2020,SELPLG; CD48; C1QA; IL6,Viral clearance; CAR-T bystander effects
+6,T_cell→NK_cell / Macrophage→Macrophage,homeostasis,3,IL-6/JAK/STAT3 Signaling,0.0394066901050093,1/87,MSigDB_Hallmark_2020,SELPLG; CD48; C1QA; IL6,Viral clearance; CAR-T bystander effects
+7,Macrophage→Dendritic_cell / B_cell→Dendritic_cell,homeostasis,1,KRAS Signaling Up,0.0153910432762079,2/200,MSigDB_Hallmark_2020,HBEGF; SELPLG; GNAI2; SIRPG; CLEC1B; CXCL2; GRN; IL16; PPBP,Autoimmune priming; Lupus; Sjögren's
+7,Macrophage→Dendritic_cell / B_cell→Dendritic_cell,homeostasis,2,TNF-alpha Signaling via NF-kB,0.0153910432762079,2/200,MSigDB_Hallmark_2020,HBEGF; SELPLG; GNAI2; SIRPG; CLEC1B; CXCL2; GRN; IL16; PPBP,Autoimmune priming; Lupus; Sjögren's
+7,Macrophage→Dendritic_cell / B_cell→Dendritic_cell,homeostasis,3,UV Response Up,0.0864990660572792,1/158,MSigDB_Hallmark_2020,HBEGF; SELPLG; GNAI2; SIRPG; CLEC1B; CXCL2; GRN; IL16; PPBP,Autoimmune priming; Lupus; Sjögren's
+8,T_cell→Macrophage / Macrophage→T_cell,inflammation,1,IL-2/STAT5 Signaling,0.0313726015806834,2/199,MSigDB_Hallmark_2020,INSL3; HBEGF; SELPLG; CD274; CD47; GNAI2; TNFSF13B; SIRPG; CLEC1B; ADAM10,COVID-19 severe; Sepsis; IBD flare
+8,T_cell→Macrophage / Macrophage→T_cell,inflammation,2,Allograft Rejection,0.0313726015806834,2/200,MSigDB_Hallmark_2020,INSL3; HBEGF; SELPLG; CD274; CD47; GNAI2; TNFSF13B; SIRPG; CLEC1B; ADAM10,COVID-19 severe; Sepsis; IBD flare
+8,T_cell→Macrophage / Macrophage→T_cell,inflammation,3,Apical Junction,0.0313726015806834,2/200,MSigDB_Hallmark_2020,INSL3; HBEGF; SELPLG; CD274; CD47; GNAI2; TNFSF13B; SIRPG; CLEC1B; ADAM10,COVID-19 severe; Sepsis; IBD flare

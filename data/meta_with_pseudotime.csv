@@ -1,0 +1,51 @@
+sample_id,dataset_source,tissue,disease,n_cells_total,n_cells_mapped,pct_cells_mapped,low_quality,progression_score,umap1,umap2
+covid_S01,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False,0.7408465,4.2839828,-9.170226
+covid_S02,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False,0.7394819,3.7700834,-9.401859
+covid_S03,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False,0.75171566,4.388487,-9.5278015
+covid_S04,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False,0.7424965,4.1983056,-8.8700285
+covid_S05,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False,0.73918474,4.166809,-9.678525
+covid_S06,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False,0.708172,3.7039845,-10.017111
+covid_S07,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False,0.74486464,3.7058873,-8.833806
+covid_S08,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False,0.7148721,3.2357063,-9.50103
+covid_S09,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False,0.74315053,4.1356797,-10.080591
+covid_S10,synthetic_covid,PBMC/BALF,COVID-19,0,0,100.0,False,0.7551255,3.530723,-9.030901
+pbmc3k_S06,pbmc3k,PBMC,healthy,254,253,99.6,False,0.77614164,-3.4004457,14.59919
+pbmc3k_S03,pbmc3k,PBMC,healthy,255,253,99.2,False,0.6133375,-4.6915865,15.601913
+pbmc3k_S07,pbmc3k,PBMC,healthy,263,262,99.6,False,0.61470777,-4.599156,15.10049
+pbmc3k_S04,pbmc3k,PBMC,healthy,280,280,100.0,False,0.44694558,-4.526681,15.87654
+pbmc3k_S09,pbmc3k,PBMC,healthy,271,269,99.3,False,0.6021883,-3.5921419,14.43936
+pbmc3k_S02,pbmc3k,PBMC,healthy,264,263,99.6,False,0.27834412,-4.0941567,15.955806
+pbmc3k_S05,pbmc3k,PBMC,healthy,259,256,98.8,False,0.30242413,-4.2275248,15.118654
+pbmc3k_S01,pbmc3k,PBMC,healthy,259,257,99.2,False,0.24143206,-2.8156545,16.232561
+pbmc3k_S00,pbmc3k,PBMC,healthy,280,279,99.6,False,0.8698945,-3.8598654,15.290548
+pbmc3k_S08,pbmc3k,PBMC,healthy,253,251,99.2,False,0.40290478,-3.5987034,15.042976
+pbmc68k_S06,pbmc68k,PBMC,healthy,71,70,98.6,False,0.94208896,-3.1526203,16.756529
+pbmc68k_S03,pbmc68k,PBMC,healthy,63,60,95.2,False,0.14818774,-3.0036056,15.809282
+pbmc68k_S07,pbmc68k,PBMC,healthy,63,62,98.4,False,0.6358402,-2.003733,15.777175
+pbmc68k_S04,pbmc68k,PBMC,healthy,79,79,100.0,False,0.36304596,-2.425722,16.520452
+pbmc68k_S09,pbmc68k,PBMC,healthy,76,75,98.7,False,0.26671553,-3.484885,16.29346
+pbmc68k_S02,pbmc68k,PBMC,healthy,78,75,96.2,False,0.7261778,-1.6015627,15.553252
+pbmc68k_S05,pbmc68k,PBMC,healthy,60,59,98.3,False,0.55673313,-1.662474,15.968449
+pbmc68k_S01,pbmc68k,PBMC,healthy,56,56,100.0,False,0.22537203,-2.613169,15.441254
+pbmc68k_S00,pbmc68k,PBMC,healthy,88,87,98.9,False,0.41864452,-3.5032415,15.715704
+pbmc68k_S08,pbmc68k,PBMC,healthy,66,64,97.0,False,0.28376,-2.5184834,15.916619
+ipf_S01,synthetic_ipf,lung,IPF,0,0,100.0,False,0.87528926,10.7391,9.017752
+ipf_S02,synthetic_ipf,lung,IPF,0,0,100.0,False,0.8397557,11.54612,8.517635
+ipf_S03,synthetic_ipf,lung,IPF,0,0,100.0,False,0.89200336,10.471513,8.917293
+ipf_S04,synthetic_ipf,lung,IPF,0,0,100.0,False,0.8359637,11.947237,9.013566
+ipf_S05,synthetic_ipf,lung,IPF,0,0,100.0,False,0.8746138,10.926137,9.387752
+ipf_S06,synthetic_ipf,lung,IPF,0,0,100.0,False,0.8760481,11.112795,8.334213
+ipf_S07,synthetic_ipf,lung,IPF,0,0,100.0,False,0.83873177,11.767419,8.780682
+ipf_S08,synthetic_ipf,lung,IPF,0,0,100.0,False,0.8642108,10.262973,8.617815
+ipf_S09,synthetic_ipf,lung,IPF,0,0,100.0,False,0.8525759,10.802521,8.542804
+ipf_S10,synthetic_ipf,lung,IPF,0,0,100.0,False,0.83965683,11.506379,9.131565
+tumor_S01,synthetic_tumor,solid tumor,cancer,0,0,100.0,False,0.6009011,21.881737,8.765086
+tumor_S02,synthetic_tumor,solid tumor,cancer,0,0,100.0,False,0.70979744,21.55142,8.204884
+tumor_S03,synthetic_tumor,solid tumor,cancer,0,0,100.0,False,0.6139352,22.02732,8.400042
+tumor_S04,synthetic_tumor,solid tumor,cancer,0,0,100.0,False,0.62091327,21.645811,8.894555
+tumor_S05,synthetic_tumor,solid tumor,cancer,0,0,100.0,False,0.6247406,22.075754,9.124431
+tumor_S06,synthetic_tumor,solid tumor,cancer,0,0,100.0,False,0.63125384,22.407814,8.115216
+tumor_S07,synthetic_tumor,solid tumor,cancer,0,0,100.0,False,0.68153906,21.281414,8.684226
+tumor_S08,synthetic_tumor,solid tumor,cancer,0,0,100.0,False,0.58535725,22.736217,8.747311
+tumor_S09,synthetic_tumor,solid tumor,cancer,0,0,100.0,False,0.62462157,22.268421,8.943127
+tumor_S10,synthetic_tumor,solid tumor,cancer,0,0,100.0,False,0.63060534,22.493858,8.610172

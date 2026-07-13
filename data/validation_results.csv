@@ -1,0 +1,9 @@
+atom,atom_label,bootstrap_cosine_mean,bootstrap_cosine_sd,stable,permutation_pvalue,real_recon_error
+1,Macrophage→T_cell / Fibroblast→Macrophage,0.9952,0.0028,True,0.4,0.6236968
+2,Fibroblast→Fibroblast / Macrophage→Fibroblast,0.9974,0.001,True,0.4,0.6236968
+3,Dendritic_cell→B_cell / Dendritic_cell→NK_cell,0.8457,0.1089,False,0.4,0.6236968
+4,NK_cell→NK_cell / Macrophage→NK_cell,0.9441,0.033,True,0.4,0.6236968
+5,Dendritic_cell→Dendritic_cell / Dendritic_cell→Macrophage,0.7149,0.315,False,0.4,0.6236968
+6,T_cell→NK_cell / Macrophage→Macrophage,0.6685,0.3626,False,0.4,0.6236968
+7,Macrophage→Dendritic_cell / B_cell→Dendritic_cell,0.6944,0.2523,False,0.4,0.6236968
+8,T_cell→Macrophage / Macrophage→T_cell,0.8053,0.2834,False,0.4,0.6236968

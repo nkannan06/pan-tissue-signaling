@@ -1,0 +1,37 @@
+═══════════════════════════════════════════════════════
+TISSUE COMMUNICATION ANALYSIS REPORT
+Sample: pbmc3k_S01 | Tissue: Peripheral blood | Disease: Healthy
+═══════════════════════════════════════════════════════
+
+CURRENT STATE
+Primary program:   Homeostasis (Atom 4) — 34% loading
+Secondary program: Homeostasis (Atom 7) — 21% loading
+Disease progression stage: 1/5 (early)
+Progression score: 0.241
+
+TRAJECTORY (untreated)
+Step +1: 19% homeostasis (A4) + 9% homeostasis (A7)
+Step +2: 27% homeostasis (A4) — progressing
+Risk: LOW — progressing toward homeostasis
+
+INTERVENTION MODELING
+Anti-inflammatory:
+  → Step +1: 20% homeostasis | Step +2: 28% homeostasis
+  → Benefit: minimal — target atom is secondary driver
+Anti-fibrotic:
+  → Step +1: 20% homeostasis | Step +2: 28% homeostasis
+  → Benefit: minimal reduction
+Combined:
+  → Step +1: 21% homeostasis | Step +2: 28% homeostasis
+  → Benefit: minimal reduction
+RECOMMENDATION: monitoring only — homeostatic state
+
+KEY LIGAND-RECEPTOR DRIVERS
+Top 3 active LR pairs in dominant atom (Homeostasis):
+  1. LTB:LTBR (NK_cell→NK_cell)
+  2. KLRB1:CLEC2D (NK_cell→Macrophage)
+  3. CD40L:CD40 (Dendritic_cell→B_cell)
+
+SIMILAR DISEASE CONTEXTS
+This communication profile matches: Viral infection, NK-cell lymphoma, Healthy surveillance
+═══════════════════════════════════════════════════════
