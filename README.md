@@ -27,22 +27,6 @@ ligand-receptor communication matrices.
 
 ---
 
-## What the Audit Found
-
-### Verified findings
-- NMF atoms are biologically stable and reproduce across random initializations
-- Fibrosis (A2) and cancer (A1) atoms match their synthetic ground truth at cosine >0.95
-- Held-out classification (samples never seen during NMF) reaches 70% accuracy, p=0.0035 vs 25% chance
-- The COVID→IPF disease ordering emerges from unsupervised atom weights in 10/10 noise trials
-- The COVID-to-cancer misclassification is biologically valid: both involve Mac↔T_cell exhaustion programs documented in Diao et al. 2020
-
-### Retracted results
-1. **Drug 9/9 validation** — the curated drug knowledge base was written by the same code that extracted the gene sets, creating a circular validation loop. The null model test confirmed random atoms receive the same drug recommendations. Replaced with honest ChEMBL external query.
-2. **EHR R²=0.993** — this was performance on training data with the same random seed used to generate features. Held-out test with a different seed gives whole-model mean R²=−1.24 (not above null). Disease atoms only (cancer/fibrosis/inflammation) show R²=0.93–0.99 but on synthetic data by construction.
-3. **5-fold CV 100%** — the CV loop compared against H_real loaded from disk rather than truly independent atoms, making it an in-sample test.
-
-### Known limitations (semi-circular)
-- Pseudotime uses dataset_source labels to identify the healthy reference centroid. Atom weights themselves are unsupervised. This is standard practice in trajectory methods (Monocle, scVelo, Palantir) but should be disclosed.
 
 ---
 
