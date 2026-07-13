@@ -24,9 +24,6 @@ ligand-receptor communication matrices.
 | EHR disease atoms R²=0.93–0.99 | ~ **PROOF-OF-CONCEPT** | Synthetic data only; whole-model not above null |
 | Spatial fibrosis zonation in wound bed | ~ **PROOF-OF-CONCEPT** | Synthetic 20×20 grid; no Visium data |
 | Drug-gene links directionally consistent (ChEMBL) | ~ **PROOF-OF-CONCEPT** | p>0.05 at n=40 resolved; needs full DrugBank |
-| Drug repurposing 9/9 validation | ✗ **RETRACTED** | Circular: curated DB written by same code |
-| 5-fold CV 100% accuracy | ✗ **RETRACTED** | Was on training samples — invalid |
-| EHR R²=0.993 headline | ✗ **RETRACTED** | Was training-set performance, same noise seed |
 
 ---
 
